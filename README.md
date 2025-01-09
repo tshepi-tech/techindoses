@@ -51,4 +51,4 @@ TINASEARCH=<from tina.io>
 
 If you get a remote GraphQL schema error, chances are you need to update TinaCMS, [details here](https://tina.io/docs/introduction/faq#how-do-i-resolve-the-local-graphql-schema-doesnt-match-the-remote-graphql-schema-errors)!
 
-**Have fun!**
+*Have fun!*
