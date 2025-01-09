@@ -123,7 +123,7 @@ export default defineConfig({
 	},
 	search: {
 		tina: {
-			indexerToken: process.env.TINASEARCH,
+			indexerToken: process.env.TINA_SEARCH,
 			stopwordLanguages: ["eng"],
 		},
 		indexBatchSize: 50,
