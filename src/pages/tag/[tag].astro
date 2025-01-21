@@ -52,8 +52,8 @@ let sortedPosts = tag.sort(
 						sortedPosts.map(
 							({
 								url,
-								data: { description, slug, title, tags, added: date },
-							}) => <Post {url} {description} {date} {slug} {title} {tags} />
+								data: { description,image, slug, title, tags, added: date },
+							}) => <Post {url} {image} {description} {date} {slug} {title} {tags} />
 						)
 					}
 				</ul>

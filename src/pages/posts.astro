@@ -29,8 +29,8 @@ posts = posts.sort(
 						posts.map(
 							({
 								url,
-								data: { description, slug, title, tags, added: date },
-							}) => <Post {description} {date} {slug} {title} {tags} />
+								data: { description,image, slug, title, tags, added: date },
+							}) => <Post {description} {image} {date} {slug} {title} {tags} />
 						)
 					}
 				</ul>

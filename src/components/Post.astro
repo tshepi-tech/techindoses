@@ -1,8 +1,9 @@
 ---
-const { slug, title, tags, description, date } = Astro.props;
+const { slug, title, tags, description, date,image } = Astro.props;
 ---
 
 <li class="post">
+	<img src={`${image}`} />
 	<a href={`/post/${slug}/`} class="title">{title}</a>
 	<time datetime={date}>
 		{
