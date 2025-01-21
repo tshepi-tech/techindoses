@@ -8,7 +8,8 @@ tags:
   - technical
   - personal
 added: "January 14 2025"
+update: "January 20 2025"
 ---
 
-![](../public/home-blog-card.png)
+![](../public/logo.png)
 hello

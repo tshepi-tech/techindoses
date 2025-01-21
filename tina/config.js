@@ -47,6 +47,11 @@ export default defineConfig({
 						required: true,
 					},
 					{
+						name: "image",
+						label: "Image",
+						type: "string",
+					},
+					{
 						label: "Slug",
 						name: "slug",
 						type: "string",
