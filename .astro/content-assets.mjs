@@ -1,4 +1,4 @@
 
-import __ASTRO_IMAGE_IMPORT_Z13I0XN from "../public/logo.png?astroContentImageFlag=&importer=posts%2Fmy-first-post.md";
-export default new Map([["../public/logo.png?astroContentImageFlag=&importer=posts%2Fmy-first-post.md", __ASTRO_IMAGE_IMPORT_Z13I0XN]]);
+import __ASTRO_IMAGE_IMPORT_ZGP3oG from "../public/perifit-device.jpeg?astroContentImageFlag=&importer=posts%2Fperifit_review.md";
+export default new Map([["../public/perifit-device.jpeg?astroContentImageFlag=&importer=posts%2Fperifit_review.md", __ASTRO_IMAGE_IMPORT_ZGP3oG]]);
 		

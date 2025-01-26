@@ -78,6 +78,14 @@ export default defineConfig({
 								label: "Advice",
 							},
 							{
+								value: "femtech",
+								label: "Femtech",
+							},
+							{
+								value: "game",
+								label: "Game",
+							},
+							{
 								value: "events",
 								label: "Events",
 							},

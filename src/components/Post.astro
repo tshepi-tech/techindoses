@@ -3,7 +3,7 @@ const { slug, title, tags, description, date,image } = Astro.props;
 ---
 
 <li class="post">
-	<img src={`${image}`} />
+	
 	<a href={`/post/${slug}/`} class="title">{title}</a>
 	<time datetime={date}>
 		{
@@ -14,6 +14,8 @@ const { slug, title, tags, description, date,image } = Astro.props;
 			})
 		}
 	</time>
+		<br />
+	<img src={`${image}`} />
 	<br />
 	{description && <span class="excerpt">{description}</span>}
 	<div>
